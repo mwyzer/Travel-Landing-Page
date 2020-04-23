@@ -1,0 +1,35 @@
+.nav-wrapped {
+    background: linear-gradient(to bottom right, red, black);
+  }
+
+.slider .btn {
+    margin-top: 20px;
+}
+
+.section-search input {
+    padding: 5px !important;
+    font-size: 18px !important;
+    width: 90% !important;
+    border: #f4f4f4 3px solid !important;
+    background: linear-gradient(to bottom right, red, black);
+  }
+  
+  .autocomplete-content {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+  }
+
+  i {
+    float:center;
+    background: 
+       linear-gradient(225deg, rgb(251, 175, 21), rgb(251, 21, 242), rgb(21, 198, 251)) 
+       0 0 / 3em 100%;
+    -webkit-background-clip:text;
+    background-clip:text;
+    width:1em;
+    text-align:center;
+    -webkit-text-fill-color: transparent;
+    animation: fontgradient 2s ease infinite;
+  }
+  
